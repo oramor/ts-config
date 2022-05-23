@@ -1,5 +1,9 @@
 {
-	"compilerOptions": {
-		"baseUrl": "./"
-	},
+    "compilerOptions": {},
+    "references": [
+        {
+            "frontend": "./frontend",
+            //"composite": true,
+        }
+    ]
 }
