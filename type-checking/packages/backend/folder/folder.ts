@@ -1,1 +1,0 @@
-const l: string = 'In folder';

@@ -1,9 +1,0 @@
-{
-    "exclude": [
-        "packages/frontend"
-    ],
-    "compilerOptions": {
-        "outDir": "dist",
-        "baseUrl": "packages/backend"
-    }
-}
