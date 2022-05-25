@@ -18,7 +18,8 @@
         "useUnknownInCatchVariables": true,
         "noImplicitThis": true,
         "noPropertyAccessFromIndexSignature": true,
-        "baseUrl": "packages/",
+        "baseUrl": "packages",
         "module": "esnext",
-    },
+        "moduleResolution": "node"
+    }
 }
