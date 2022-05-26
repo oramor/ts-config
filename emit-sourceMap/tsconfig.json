@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "inlineSourceMap": false,
+        "inlineSources": false,
+        "sourceRoot": "http://dev.avansoft.ru/gvp/sm/src",
+        "mapRoot": "http://dev.avansoft.ru/gvp/sm",
+        "outDir": "dist"
+    }
+}

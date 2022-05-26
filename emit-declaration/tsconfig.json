@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "declarationDir": "types",
+        "declarationMap": true,
+        "outDir": "dist",
+        "module": "esnext"
+    }
+}

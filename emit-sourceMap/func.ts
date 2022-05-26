@@ -1,0 +1,1 @@
+function f(arg: any) { return arg };
