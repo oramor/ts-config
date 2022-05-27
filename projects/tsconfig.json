@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "noEmitOnError": true,
+        "composite": false
+    },
+    "references": [
+        {
+            "path": "./frontend"
+        },
+        {
+            "path": "./backend"
+        }
+    ]
+}
